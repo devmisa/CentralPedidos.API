@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.7.11819.209 insiders
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralPedidos.API", "CentralPedidos.API\CentralPedidos.API.csproj", "{C68CF8A8-DBD5-493A-828C-C156FEE34DC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralPedidos.Domain", "CentralPedidos.Domain\CentralPedidos.Domain.csproj", "{8391774E-E362-4D75-94D4-AA1D2D4EF0FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralPedidos.Application", "CentralPedidos.Application\CentralPedidos.Application.csproj", "{C8072D74-8384-4907-9AF6-0B3C8D3C8C6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralPedidos.Infrastructure", "CentralPedidos.Infrastructure\CentralPedidos.Infrastructure.csproj", "{D8E325B8-0933-44F6-A592-DCE8D89ED757}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralPedidos.UnitTests", "CentralPedidos.UnitTests\CentralPedidos.UnitTests.csproj", "{230E5B61-7039-42B8-A01A-DCF4F15E98D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C68CF8A8-DBD5-493A-828C-C156FEE34DC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C68CF8A8-DBD5-493A-828C-C156FEE34DC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C68CF8A8-DBD5-493A-828C-C156FEE34DC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C68CF8A8-DBD5-493A-828C-C156FEE34DC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8391774E-E362-4D75-94D4-AA1D2D4EF0FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8391774E-E362-4D75-94D4-AA1D2D4EF0FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8391774E-E362-4D75-94D4-AA1D2D4EF0FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8391774E-E362-4D75-94D4-AA1D2D4EF0FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8072D74-8384-4907-9AF6-0B3C8D3C8C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8072D74-8384-4907-9AF6-0B3C8D3C8C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8072D74-8384-4907-9AF6-0B3C8D3C8C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8072D74-8384-4907-9AF6-0B3C8D3C8C6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8E325B8-0933-44F6-A592-DCE8D89ED757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8E325B8-0933-44F6-A592-DCE8D89ED757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8E325B8-0933-44F6-A592-DCE8D89ED757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8E325B8-0933-44F6-A592-DCE8D89ED757}.Release|Any CPU.Build.0 = Release|Any CPU
+		{230E5B61-7039-42B8-A01A-DCF4F15E98D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{230E5B61-7039-42B8-A01A-DCF4F15E98D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{230E5B61-7039-42B8-A01A-DCF4F15E98D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{230E5B61-7039-42B8-A01A-DCF4F15E98D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {828B9DC4-EB02-48E2-929B-EE03ACE8B68D}
+	EndGlobalSection
+EndGlobal
