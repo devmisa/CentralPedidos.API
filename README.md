@@ -3,6 +3,7 @@
 ![Database](https://img.shields.io/badge/Database-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![ORM](https://img.shields.io/badge/ORM-EF%20Core%20%26%20Dapper-orange?style=for-the-badge)
 ![Tests](https://img.shields.io/badge/Tests-xUnit%20%26%20Moq-green?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 # Central de Pedidos API
 
