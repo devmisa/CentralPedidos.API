@@ -1,13 +1,16 @@
 ![.NET Version](https://img.shields.io/badge/.NET-8.0%20-purple?style=for-the-badge&logo=dotnet)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Architecture](https://img.shields.io/badge/Architecture-Clean%20%2F%20DDD-blue?style=for-the-badge)
 ![Database](https://img.shields.io/badge/Database-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![ORM](https://img.shields.io/badge/ORM-EF%20Core%20%26%20Dapper-orange?style=for-the-badge)
 ![Tests](https://img.shields.io/badge/Tests-xUnit%20%26%20Moq-green?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+
 
 # Central de Pedidos API
 
-Uma Web API robusta, escalável e de alta performance desenvolvida em **.NET 8**para o gerenciamento do ciclo de vida de pedidos e seus respectivos itens. O projeto foi estruturado seguindo os padrões mais exigentes de mercado, unindo a segurança do **Entity Framework Core** para operações de escrita e a velocidade do **Dapper** para consultas paginadas complexas.
+Uma Web API robusta, escalável e de alta performance desenvolvida em **.NET 8** para o gerenciamento do ciclo de vida de pedidos e seus respectivos itens. O projeto foi estruturado seguindo os padrões mais exigentes de mercado, unindo a segurança do **Entity Framework Core** para operações de escrita e a velocidade do **Dapper** para consultas paginadas complexas.
 
 ---
 
